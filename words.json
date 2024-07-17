@@ -1,128 +1,22 @@
-[
-  {
-    "korean_word": "안녕하세요",
-    "english_translation": "Hello",
-    "example_sentence": "안녕하세요! 만나서 반가워요.",
-    "english_example": "Hello! Nice to meet you."
-  },
-  {
-    "korean_word": "사랑",
-    "english_translation": "Love",
-    "example_sentence": "그는 그녀를 진심으로 사랑한다.",
-    "english_example": "He truly loves her."
-  },
-  {
-    "korean_word": "감사합니다",
-    "english_translation": "Thank you",
-    "example_sentence": "오늘 저를 도와 주셔서 감사합니다.",
-    "english_example": "Thank you for helping me today."
-  },
-  {
-    "korean_word": "친구",
-    "english_translation": "Friend",
-    "example_sentence": "나의 친구는 항상 내 곁에 있다.",
-    "english_example": "My friend is always by my side."
-  },
-  {
-    "korean_word": "학교",
-    "english_translation": "School",
-    "example_sentence": "오늘 학교에 늦었어요.",
-    "english_example": "I was late for school today."
-  },
-  {
-    "korean_word": "가방",
-    "english_translation": "Bag",
-    "example_sentence": "제가 가방을 잃어버렸어요.",
-    "english_example": "I lost my bag."
-  },
-  {
-    "korean_word": "가족",
-    "english_translation": "Family",
-    "example_sentence": "우리 가족은 매주 일요일에 모입니다.",
-    "english_example": "Our family gathers every Sunday."
-  },
-  {
-    "korean_word": "음식",
-    "english_translation": "Food",
-    "example_sentence": "한국 음식을 맛보고 싶어요.",
-    "english_example": "I want to taste Korean food."
-  },
-  {
-    "korean_word": "여행",
-    "english_translation": "Travel",
-    "example_sentence": "여름에 해외로 여행을 가는 게 좋아요.",
-    "english_example": "I like to travel abroad in the summer."
-  },
-  {
-    "korean_word": "책",
-    "english_translation": "Book",
-    "example_sentence": "그는 매일 밤 책을 읽습니다.",
-    "english_example": "He reads books every night."
-  },
-  {
-    "korean_word": "시간",
-    "english_translation": "Time",
-    "example_sentence": "시간이 얼마나 걸리나요?",
-    "english_example": "How long will it take?"
-  },
-  {
-    "korean_word": "모자",
-    "english_translation": "Hat",
-    "example_sentence": "그녀는 붉은색 모자를 썼습니다.",
-    "english_example": "She wore a red hat."
-  },
-  {
-    "korean_word": "물",
-    "english_translation": "Water",
-    "example_sentence": "물을 마시는 것은 매우 중요합니다.",
-    "english_example": "Drinking water is very important."
-  },
-  {
-    "korean_word": "공부",
-    "english_translation": "Study",
-    "example_sentence": "공부를 열심히 해야 해요.",
-    "english_example": "You have to study hard."
-  },
-  {
-    "korean_word": "예술",
-    "english_translation": "Art",
-    "example_sentence": "예술은 마음의 표현입니다.",
-    "english_example": "Art is an expression of the heart."
-  },
-  {
-    "korean_word": "행복",
-    "english_translation": "Happiness",
-    "example_sentence": "진정한 행복은 무엇일까요?",
-    "english_example": "What is true happiness?"
-  },
-  {
-    "korean_word": "날씨",
-    "english_translation": "Weather",
-    "example_sentence": "오늘 날씨가 좋아요.",
-    "english_example": "The weather is nice today."
-  },
-  {
-    "korean_word": "생일",
-    "english_translation": "Birthday",
-    "example_sentence": "오늘은 제 생일입니다.",
-    "english_example": "Today is my birthday."
-  },
-  {
-    "korean_word": "꽃",
-    "english_translation": "Flower",
-    "example_sentence": "그는 정원에서 꽃을 키웁니다.",
-    "english_example": "He grows flowers in the garden."
-  },
-  {
-    "korean_word": "모든",
-    "english_translation": "All",
-    "example_sentence": "그는 모든 것을 알고 있다.",
-    "english_example": "He knows everything."
-  },
-  {
-    "korean_word": "웃다",
-    "english_translation": "To laugh",
-    "example_sentence": "그녀는 재미있는 이야기에 웃었다.",
-    "english_example": "She laughed at the funny story."
-  }
-]
+{
+  "words": [
+    {
+      "korean_word": "사과",
+      "english_meaning": "apple",
+      "korean_example": "사과는 맛있어요.",
+      "english_translation": "Apples are delicious."
+    },
+    {
+      "korean_word": "고양이",
+      "english_meaning": "cat",
+      "korean_example": "우리 집에는 고양이가 있어요.",
+      "english_translation": "There is a cat in our house."
+    },
+    {
+      "korean_word": "학교",
+      "english_meaning": "school",
+      "korean_example": "오늘 학교에 갔어요.",
+      "english_translation": "I went to school today."
+    }
+  ]
+}
