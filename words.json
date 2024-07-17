@@ -1,123 +1,21 @@
 [
-    {
-      "word": "사랑",
-      "translation": "love",
-      "example_kr": "나는 너를 사랑해.",
-      "example_en": "I love you."
-    },
-    {
-      "word": "친구",
-      "translation": "friend",
-      "example_kr": "그는 나의 친구입니다.",
-      "example_en": "He is my friend."
-    },
-    {
-      "word": "행복",
-      "translation": "happiness",
-      "example_kr": "행복은 돈으로 살 수 없습니다.",
-      "example_en": "Happiness cannot be bought with money."
-    },
-    {
-      "word": "음악",
-      "translation": "music",
-      "example_kr": "나는 음악을 듣는 것을 좋아해요.",
-      "example_en": "I like listening to music."
-    },
-    {
-      "word": "학교",
-      "translation": "school",
-      "example_kr": "학교에 가는 길이에요.",
-      "example_en": "I am on my way to school."
-    },
-    {
-      "word": "공부",
-      "translation": "study",
-      "example_kr": "공부를 열심히 해야 해요.",
-      "example_en": "You should study hard."
-    },
-    {
-      "word": "시간",
-      "translation": "time",
-      "example_kr": "시간이 참 빨리 가네요.",
-      "example_en": "Time really flies."
-    },
-    {
-      "word": "사람",
-      "translation": "person",
-      "example_kr": "그 사람은 친절해요.",
-      "example_en": "That person is kind."
-    },
-    {
-      "word": "가족",
-      "translation": "family",
-      "example_kr": "가족이 제일 중요해요.",
-      "example_en": "Family is the most important."
-    },
-    {
-      "word": "음식",
-      "translation": "food",
-      "example_kr": "이 음식은 정말 맛있어요.",
-      "example_en": "This food is really delicious."
-    },
-    {
-      "word": "여행",
-      "translation": "travel",
-      "example_kr": "여행을 좋아해요.",
-      "example_en": "I like to travel."
-    },
-    {
-      "word": "영화",
-      "translation": "movie",
-      "example_kr": "영화를 보러 갑시다.",
-      "example_en": "Let's go watch a movie."
-    },
-    {
-      "word": "책",
-      "translation": "book",
-      "example_kr": "이 책은 정말 재미있어요.",
-      "example_en": "This book is really interesting."
-    },
-    {
-      "word": "꿈",
-      "translation": "dream",
-      "example_kr": "꿈을 꾸는 것은 중요해요.",
-      "example_en": "It is important to dream."
-    },
-    {
-      "word": "공원",
-      "translation": "park",
-      "example_kr": "공원에서 산책합시다.",
-      "example_en": "Let's take a walk in the park."
-    },
-    {
-      "word": "바다",
-      "translation": "sea",
-      "example_kr": "바다가 정말 아름다워요.",
-      "example_en": "The sea is really beautiful."
-    },
-    {
-      "word": "하늘",
-      "translation": "sky",
-      "example_kr": "하늘이 맑아요.",
-      "example_en": "The sky is clear."
-    },
-    {
-      "word": "집",
-      "translation": "home",
-      "example_kr": "집에 가고 싶어요.",
-      "example_en": "I want to go home."
-    },
-    {
-      "word": "우정",
-      "translation": "friendship",
-      "example_kr": "우정은 소중해요.",
-      "example_en": "Friendship is precious."
-    },
-    {
-      "word": "자유",
-      "translation": "freedom",
-      "example_kr": "자유는 중요해요.",
-      "example_en": "Freedom is important."
-    }
-  ]
-  
+  {
+    "korean": "사과",
+    "english": "apple",
+    "sentence": "나는 사과를 좋아해요.",
+    "sentenceTranslation": "I like apples."
+  },
+  {
+    "korean": "고양이",
+    "english": "cat",
+    "sentence": "우리 집에는 고양이가 있어요.",
+    "sentenceTranslation": "There is a cat in our house."
+  },
+  {
+    "korean": "강아지",
+    "english": "dog",
+    "sentence": "저는 강아지를 키우고 싶어요.",
+    "sentenceTranslation": "I want to raise a dog."
+  },
+  ...
+]
